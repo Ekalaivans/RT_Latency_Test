@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables / binaries
+*.out
+*.exe
+
+# Shared libraries
+*.so
+*.so.*
+*.a
+
+# Build directories
+build/
+bin/
+obj/
+
+# Debug files
+*.d
+*.su
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor files
+*.swp
+*~
