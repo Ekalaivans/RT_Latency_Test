@@ -27,3 +27,26 @@ obj/
 # Editor files
 *.swp
 *~
+# Object and build artifacts
+*.o
+*.so
+*.a
+*.out
+
+# Compiled C binaries
+50
+cnc_75
+cnc_90
+non_isolate
+rt_cnc_isolation
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+
+# Log files / Test data (optional: keep if you want to push them)
+# *.csv
+# *.txt
